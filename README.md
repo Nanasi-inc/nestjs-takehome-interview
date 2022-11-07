@@ -8,7 +8,7 @@
 
 ## Objective
 
-Your mission is to build a FAQ REST API that could be potentially used to power a Quora-like website where people can add, read, delete and update questions and answers.
+Your goal is to build a FAQ REST API that could be potentially used to power a Quora-like website where people can add, read, delete and update questions and answers.
 
 ##### Expected Functionality
 
