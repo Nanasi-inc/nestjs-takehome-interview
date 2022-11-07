@@ -33,7 +33,7 @@ Your mission is to build a FAQ REST API that could be potentially used to power 
 
 #### Technologies We Expect You To Incorporate
 
-- Use [Cassandra](https://cassandra.apache.org/_/quickstart.html) as the DB of choice. We recommend using [DataStax's Node Driver](https://docs.datastax.com/en/developer/nodejs-driver/4.3/) for easy integration.
+- Use [Postgres](https://hub.docker.com/_/postgres) as the DB of choice. We recommend using [Prisma ORM](https://www.prisma.io/docs/concepts/overview/what-is-prisma) for easy integration.
 
 ## Setup Instructions
 
